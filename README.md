@@ -309,7 +309,7 @@ If you'd like to improve the project:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
 **Mithilesh Maddipati**
 
@@ -321,6 +321,29 @@ LinkedIn:
 Portfolio:
 > https://mithileshportfolio001.netlify.app/
 
+---
+
+### **Shanu Appikonda**
+**AI Engineer | Software Developer | Salesforce Certified Platform Developer I**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sumanohari-shanu-appikonda-861b61259/
+
+---
+
+### **M Sai Raja Karthik**
+**AI Engineer | Software Developer | Cloud Developer**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sai-raja-karthik-936588314/
+
+---
+
+### **K Mruthyum Jaya Rani**
+**AI Engineer | Software Developer**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/rani-reddy-778b62259/
 ---
 
 # ⭐ Support
